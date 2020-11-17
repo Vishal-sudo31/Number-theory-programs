@@ -1,4 +1,4 @@
-'''This program is used to calculate thee residue of given power'''
+'''This program is used to calculate the residue of given power'''
 
 
 x = int(input("Enter the type of residue : "))
