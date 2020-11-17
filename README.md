@@ -1,4 +1,4 @@
-# Python_Program
+# Number-Theory-Concept-Programs
 Number theory concepts has been implemented in python programs.
 These programs not only contains the final results of the entered input but also the steps are also will be displayed..
 To put it in simple terms these programs' output will be similar to your class notes...
