@@ -1,4 +1,4 @@
-'''Using this program Euler Phi function of any number can be found'''
+'''Using this program Euler-Phi function of any number can be found'''
 def GCD(x, y):
     while(y):
         x, y = y, x % y
@@ -17,3 +17,10 @@ else:
         if(GCD(i,n)==1):
             count+=1
     print("\nEuler phi of {} = {}".format(n,count))
+
+'''Euler-phi is an important concept in number-theory...
+ϕ(n) is the number of non-negative integers less than n that are relatively prime to n. 
+In other words, if n>1 then ϕ(n) is the number of elements in Un, and ϕ(1)=1.'''' 
+
+#Checkout more about Euler-Phi at :https://www.whitman.edu/mathematics/higher_math_online/section03.08.html
+#Program contributed by VISHAL K K
